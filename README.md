@@ -3,8 +3,6 @@
 
 ### This application uses:
 
-![react-native-lottie](https://github.com/react-native-community/lottie-react-native)
-
 ![react-native-viewpager](https://github.com/react-native-community/react-native-viewpager)
 
 ![react-navigation](https://github.com/react-navigation/react-navigation)
